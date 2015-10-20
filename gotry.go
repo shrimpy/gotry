@@ -27,7 +27,7 @@ func main() {
         fmt.Fprintf(w, `
         <html>
             <body>
-                <h1>Hello from Go! - Private</h1>
+                <h1>Hello from Go!</h1>
                 <br />
                 <a href='/g'>Try Gin</a>
                 <br />
